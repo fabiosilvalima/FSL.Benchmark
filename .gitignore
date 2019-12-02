@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/FSL.Benchmark.AspNetCore/.vs
+/FSL.Benchmark.AspNetCore/bin
+/FSL.Benchmark.AspNetCore/obj
+/FSL.Benchmark.AspNetCore/packages
+/FSL.Benchmark.AspNetCore22/bin
+/FSL.Benchmark.AspNetCore22/obj
+/FSL.Benchmark.AspNetFramework/bin
+/FSL.Benchmark.AspNetFramework/obj
+/packages

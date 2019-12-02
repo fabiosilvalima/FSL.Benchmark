@@ -7,7 +7,7 @@
 >
 > English: N/A
 >
-> Português: https://www.fabiosilvalima.net/benchmark-aspnet-47-vs-aspnetcore-3/
+> Português: https://www.fabiosilvalima.net/benchmark-aspnet-vs-aspnetcore/
 
 ---
 

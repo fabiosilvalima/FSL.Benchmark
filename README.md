@@ -5,8 +5,6 @@
 
 > **FULL ARTICLE:**
 >
-> English: N/A
->
 > Português: https://www.fabiosilvalima.net/benchmark-aspnet-vs-aspnetcore/
 >
 > English: https://www.fabiosilvalima.com/benchmark-aspnet-aspnetcore/
